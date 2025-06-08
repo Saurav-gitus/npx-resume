@@ -1,0 +1,27 @@
+{
+  "name": "@saurav-kumar-697b95258/resume",
+  "version": "1.0.1",
+  "description": "A personal resume CLI for Saurav Kumar",
+  "main": "index.mjs",
+  "type": "module",
+  "bin": {
+    "@saurav-kumar-697b95258/resume": "./index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "saurav kumar"
+  ],
+  "author": "Saurav Kumar <mr.sk292000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
