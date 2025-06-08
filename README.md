@@ -2,7 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/@saurav-kumar-697b95258/resume.svg)](https://www.npmjs.com/package/@saurav-kumar-697b95258/resume)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/saurav-kumar-697b95258/resume-cli/actions/workflows/nodejs.yml/badge.svg)](https://github.com/saurav-kumar-697b95258/resume-cli/actions)
 
 > A personal resume CLI tool for **Saurav Kumar** — view my professional resume directly in your terminal using `npx`.
 
