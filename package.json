@@ -7,9 +7,6 @@
   "bin": {
     "@saurav-kumar-697b95258/resume": "./index.mjs"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "resume",
     "cli",
